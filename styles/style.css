@@ -61,7 +61,85 @@ p{
 
 #title img {
     border-radius: 50%;
-  }
+}
+
+footer {
+	width: 100%;
+	display: inline-block;
+	margin: 2em 0;
+	height: 70px;
+	background-color: #124375;
+}
+footer .copyright {
+	display: inline-block;
+	width: 50%;
+	float: none;
+}
+
+footer .copyright a {
+	padding-top: 0;
+}
+footer .copyright p {
+	padding-left: 20%;
+	color: white;
+	font-size: 0.75em;
+	line-height: 70px;
+	text-transform: capitalize;
+	letter-spacing: 1px;
+	
+}
+@media (max-width: 600px) {
+	footer .copyright p {
+		text-align: center;
+		padding: 0;
+   }
+}
+footer .social {
+	width: 50%;
+	float: right;
+}
+@media (max-width: 600px) {
+	footer .social {
+		width: 100%;
+   }
+}
+footer .social a {
+	float: left;
+	line-height: 70px;
+	text-decoration: none;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+	transition: all, 0.3s;
+}
+footer .social a:hover {
+	background-color: #222;
+	transition: all, 0.3s;
+}
+.linkedin {
+	background-color: #1e83ae;
+	font-size: 1.2em;
+	width: 25%;
+}
+.facebook {
+	background-color: #124375;
+	font-size: 1.2em;
+	width: 25%;
+}
+.instagram {
+	background-color: #E1306C;
+	font-size: 1.2em;
+	width: 25%;
+}
+.youtube {
+	background-color: #ff0000;
+	font-size: 1.2em;
+	width: 25%;
+}
+
+
+
+
 
 
 
