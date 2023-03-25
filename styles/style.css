@@ -50,32 +50,20 @@ h2{
     font-size: 30px;
     line-height: 10px;
     margin-bottom: 20px;
-    font-family: 'Times New Roman', Times, serif;    
+    font-family: poppinsmedium;    
+}
+p{
+	line-height: 20px;
+	max-width: 500px;
+	font-weight: 600;
+	letter-spacing: .2rem;
 }
 
-img {
+#title img {
     border-radius: 50%;
   }
 
-.container {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 20px;
-    padding: 10px;
-    border-radius: 30px;
-    background-color: #fdfdfd;
-}
 
-.swiper {
-    width:80%;
-    height: 50%;
-}
-
-.swiper-slide{
-    width:10%;
-}
 
 
 
