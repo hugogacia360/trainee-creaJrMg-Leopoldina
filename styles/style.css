@@ -37,9 +37,14 @@ header {
 
 #title li a{
     color: #fdfdfd;
-    text-decoration: none;
     font-size: 20px;
+    text-decoration: none;
+    border:2px solid #fdfdfd;
+    padding:10px;
+    border-radius: 15px;
+
 }
+
 main {
     display: flex;
     flex-direction: row;
@@ -59,6 +64,12 @@ p{
 	letter-spacing: .2rem;
 }
 
+article img{
+    width: 100%;
+    height: 100%;
+    border-radius: 30px;
+}
+
 #title img {
     border-radius: 50%;
 }
@@ -70,16 +81,16 @@ footer {
 	height: 70px;
 	background-color: #124375;
 }
-footer .copyright {
+footer .rodape{
 	display: inline-block;
 	width: 50%;
 	float: none;
 }
 
-footer .copyright a {
+footer .rodape a {
 	padding-top: 0;
 }
-footer .copyright p {
+footer .rodape p {
 	padding-left: 20%;
 	color: white;
 	font-size: 0.75em;
@@ -89,7 +100,7 @@ footer .copyright p {
 	
 }
 @media (max-width: 600px) {
-	footer .copyright p {
+	footer .rodape p {
 		text-align: center;
 		padding: 0;
    }
@@ -107,7 +118,7 @@ footer .social a {
 	float: left;
 	line-height: 70px;
 	text-decoration: none;
-	color: white;
+	color: #fdfdfd;
 	text-align: center;
 	font-weight: bold;
 	transition: all, 0.3s;
@@ -136,14 +147,6 @@ footer .social a:hover {
 	font-size: 1.2em;
 	width: 25%;
 }
-
-
-
-
-
-
-
-
 
 
 
