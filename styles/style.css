@@ -10,8 +10,9 @@ body {
 
 }
 
+
 header {
-    width:100%;
+    width: 100%;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -20,6 +21,7 @@ header {
     padding: 10px;
     margin-bottom: 20px;
     border-radius: 30px;
+    box-shadow: 20px 20px 10px #01488f;
 
 }
 
@@ -30,12 +32,10 @@ header {
     align-items: center;
     list-style: none;
     padding: 0;
-}
-
-#title li {
-    display: inline-block;
     margin: 20px;
-    flex-direction: column
+    text-shadow: 2px 2px 4px #b5dcec;
+
+
 }
 
 #title li a {
@@ -48,51 +48,62 @@ header {
 
 }
 
+#title li a:hover {
+    background-color: #fdfdfd;
+    color: #124375;
+    transition: all, 0.3s;
+}
+
 main {
-    width:100%;
+    width: 100%;
     display: flex;
     flex-direction: row;
     margin-top: 50px;
 }
 
-aside{
+aside {
     width: 30%;
     display: flex;
     flex-direction: column;
     margin-right: 20px;
 }
 
-section{
+section {
     width: 70%;
     display: flex;
     flex-direction: column;
 }
 
-h2 {
+form h2 {
     font-size: 30px;
     line-height: 10px;
     margin-bottom: 20px;
+    text-shadow: 2px 2px 2px #01488f;
     font-family: poppinsmedium;
 }
 
-p {
+aside p {
     line-height: 20px;
     max-width: 700px;
     font-weight: 600;
     letter-spacing: .2rem;
     text-indent: 20px;
+    text-shadow: 2px 2px 4px #01488f;
 }
 
 #image1 {
     width: 100%;
     height: 400px;
     border-radius: 30px;
+    box-shadow: 20px 20px 10px #01488f;
+    margin-bottom: 15px;
 }
 
 #image2 {
     width: 100%;
     height: 800px;
     border-radius: 30px;
+    box-shadow: 20px 20px 10px #01488f;
 }
 
 #title img {
@@ -104,6 +115,7 @@ footer {
     display: inline-block;
     margin: 2em 0;
     height: 70px;
+    box-shadow: 20px 20px 10px #01488f; 
     background-color: #124375;
 }
 
@@ -197,6 +209,15 @@ input {
     padding: 15px;
     border-radius: 20px;
     border: none;
+    box-shadow: 20px 20px 10px #01488f;
+}
+
+textarea {
+    height: 100px;
+    padding: 15px;
+    border-radius: 20px;
+    border: none;
+    box-shadow: 20px 20px 10px #01488f;
 }
 
 input[type=submit] {
@@ -212,15 +233,6 @@ input[type=submit]:hover {
     cursor: pointer;
     transition: all, 0.3s;
 }
-
-
-
-
-
-
-
-
-
 
 
 
