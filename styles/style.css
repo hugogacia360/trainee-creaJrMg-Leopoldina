@@ -121,17 +121,14 @@ footer {
 
 footer .rodape {
     display: inline-block;
-    width: 50%;
-    float: none;
-}
-
-footer .rodape a {
-    padding-top: 0;
+    width:40%;
+    border-radius: 30px;
 }
 
 footer .rodape p {
+    width:100%;
     padding-left: 20%;
-    color: white;
+    color:#fdfdfd;
     font-size: 0.75em;
     line-height: 70px;
     text-transform: capitalize;
@@ -139,22 +136,10 @@ footer .rodape p {
 
 }
 
-@media (max-width: 600px) {
-    footer .rodape p {
-        text-align: center;
-        padding: 0;
-    }
-}
-
 footer .social {
     width: 50%;
     float: right;
-}
-
-@media (max-width: 600px) {
-    footer .social {
-        width: 100%;
-    }
+    border-radius: 30px;
 }
 
 footer .social a {
@@ -199,7 +184,7 @@ footer .social a:hover {
 form {
     display: flex;
     flex-direction: column;
-    width: 70%;
+    width: 90%;
 
 }
 
@@ -233,13 +218,3 @@ input[type=submit]:hover {
     cursor: pointer;
     transition: all, 0.3s;
 }
-
-
-
-
-
-/* cores : 
-#124375
-#b5dcec
-#fdfdfd
-#01488f*/
