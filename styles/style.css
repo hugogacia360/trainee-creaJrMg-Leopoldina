@@ -281,6 +281,10 @@ input[type=submit]:hover {
         margin-left: 10px;
     }
 
+    #image0{
+        width:100%;
+    }
+
     #image1 {
         width: 105%;
         height: 150%;
