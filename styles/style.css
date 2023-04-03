@@ -229,10 +229,11 @@ input[type=submit]:hover {
 @media (max-width: 600px) {
 
     body {
-        max-width: 85%;
-        margin: 1px;
+        max-width: 80%;
+        margin: 0 auto;
+        padding: 10px;
     }
-
+    
     #title ul {
         flex-direction: column;
         justify-content: center;
