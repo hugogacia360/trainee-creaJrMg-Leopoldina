@@ -274,7 +274,6 @@ input[type=submit]:hover {
         font-size: 30px;
         line-height: 10px;
         margin-bottom: 20px;
-        text-shadow: 2px 2px 2px #01488f;
         font-family: poppinsmedium;
     }
 
@@ -284,7 +283,6 @@ input[type=submit]:hover {
         font-weight: 600;
         letter-spacing: .2rem;
         text-indent: 20px;
-        text-shadow: 2px 2px 4px #01488f;
         margin-left: 10px;
     }
 
