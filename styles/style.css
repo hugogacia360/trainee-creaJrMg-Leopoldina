@@ -83,7 +83,6 @@ form h2 {
     font-size: 30px;
     line-height: 10px;
     margin-bottom: 20px;
-    text-shadow: 2px 2px 2px #01488f;
     font-family: poppinsmedium;
 }
 
@@ -93,7 +92,6 @@ aside p {
     font-weight: 600;
     letter-spacing: .2rem;
     text-indent: 20px;
-    text-shadow: 2px 2px 4px #01488f;
 }
 
 #image1 {
