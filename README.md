@@ -15,7 +15,7 @@ A página contém informações sobre o núcleo, acesso as principais redes soci
 
 
 ## Modelo conceitual
-<img src="https://github.com/hugogacia360/assets/conceito.webp">
+<img src="https://raw.githubusercontent.com/hugogacia360/assets/main/conceito.webp">
 
 # Tecnologias utilizadas
 ## Front end
