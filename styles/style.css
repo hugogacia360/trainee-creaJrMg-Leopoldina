@@ -232,8 +232,16 @@ input[type=submit]:hover {
 
     body {
         max-width: 80%;
-        margin: 0 auto;
         padding: 10px;
+    }
+    
+    header{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 2px;
+        margin-left: -10px;
     }
     
     #title ul {
@@ -245,14 +253,14 @@ input[type=submit]:hover {
         width: 100%;
         display: flex;
         flex-direction: column-reverse;
-        margin-top: 50px;
+        margin-top: 10px;
     }
 
     aside {
         width: 100%;
         display: flex;
         flex-direction: column;
-        margin-right: 0px;
+        margin-bottom: 30px;
     }
 
     section {
@@ -289,19 +297,20 @@ input[type=submit]:hover {
     }
 
     #image1 {
-        width: 105%;
-        height: 150%;
+        width: 100%;
+        height: 200px;
         border-radius: 20px;
         box-shadow: 20px 20px 10px #01488f;
-        margin-bottom: 50px;
+        margin-bottom: 30px;
     }
 
     #image2 {
-        width: 100%;
-        height: 50%;
+        width: 96%;
+        height: 320px;
         border-radius: 20px;
         box-shadow: 20px 20px 10px #01488f;
-        margin-bottom: 100px;
+        margin-bottom: 25px;
+        margin-left: 5px;
     }
 
     #title img {
