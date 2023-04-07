@@ -7,15 +7,15 @@ Essa landing page foi criada durante o processo de trainee do CREAJR para coorde
 A página contém informações sobre o núcleo, acesso as principais redes sociais do núcleo e acesso ao edital do processo mais recente
 
 ## Layout mobile
-<img src="https://github.com/hugogacia360/trainee-creaJrMg-Leopoldina/assets/mobile1.png">
-<img src="https://github.com/hugogacia360/trainee-creaJrMg-Leopoldina/assets/mobile2.png">
+<img src="https://github.com/hugogacia360/assets/mobile1.png">
+<img src="https://github.com/hugogacia360/assets/mobile2.png">
 
 ## Layout web
 <img src="https://github.com/hugogacia360/trainee-creaJrMg-Leopoldina/assets/web1.jpeg">
 
 
 ## Modelo conceitual
-<img src="https://github.com/hugogacia360/trainee-creaJrMg-Leopoldina/assets/conceito.webp">
+<img src="https://github.com/hugogacia360/assets/conceito.webp">
 
 # Tecnologias utilizadas
 ## Front end
