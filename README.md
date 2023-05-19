@@ -2,7 +2,7 @@
 
 https://creajrmgleopoldina.netlify.app/
 
-Essa landing page foi criada durante o processo de trainee do CREAJR para coordenadoria de Tecnologia de iformação do núcleo de leopoldina [CREAJR - núcleo leopoldina](https://www.linkedin.com/company/crea-jr-mg-n%C3%BAcleo-leopoldina/).
+Essa landing page foi criada durante o processo de trainee do CREAJR para coordenadoria de Tecnologia da informação do núcleo de leopoldina [CREAJR - núcleo leopoldina](https://www.linkedin.com/company/crea-jr-mg-n%C3%BAcleo-leopoldina/).
 
 A página contém informações sobre o núcleo, acesso as principais redes sociais do núcleo e acesso ao edital do processo mais recente
 
